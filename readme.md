@@ -10,6 +10,7 @@
 * imagemin-pngquant //png画像の圧縮
 * gulp-pleeease //ベンダープレフィックス
 * gulp-sourcemaps //ソースマップ
+* gulp-watch //ファイルの監視
 
 ## 依存アプリケーション等
 
@@ -46,4 +47,5 @@ Chiaki [http://mellowchanter.info/](http://mellowchanter.info/)
 
 ###Version
 
+2016.01.30 0.2 gulp-watch add
 2015.11.09 0.1 beta test
