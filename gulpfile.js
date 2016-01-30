@@ -72,7 +72,7 @@ gulp.task('imageminPngquant', function () {
  */
 gulp.task( 'browser-sync', function() {
 	browserSync.init({
-		proxy: "vccw.dev",
+		proxy: "someone.dev",
 		notify: true
 	});
 });

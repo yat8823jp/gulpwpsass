@@ -18,7 +18,11 @@
     "imagemin-pngquant": "^4.1.2",
     "gulp-pleeease": "^2.0.1",
     "gulp-sourcemaps": "^1.6.0",
+<<<<<<< HEAD
     "gulp-minify-css": "^1.2.0",
     "gulp-watch": "^4.3.5"
+=======
+    "gulp-minify-css": "^1.2.0"
+>>>>>>> a58bbc581d26032ad296380f50ac7d36db793879
   }
 }
